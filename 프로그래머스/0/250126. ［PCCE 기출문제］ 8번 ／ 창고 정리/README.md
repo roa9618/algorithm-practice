@@ -1,6 +1,6 @@
 # [level 0] [PCCE 기출문제] 8번 / 창고 정리 - 250126 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/250126) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/250126?language=python3) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 04일 00:40:49
+2025년 02월 04일 00:40:55
 
 ### 문제 설명
 
